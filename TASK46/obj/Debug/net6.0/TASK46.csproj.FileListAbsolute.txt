@@ -1,0 +1,15 @@
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\TASK46.csproj.AssemblyReference.cache
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\TASK46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\TASK46.AssemblyInfoInputs.cache
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\TASK46.AssemblyInfo.cs
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\TASK46.csproj.CoreCompileInputs.cache
+C:\Users\Garry\Desktop\Lessions6\TASK46\bin\Debug\net6.0\TASK46.exe
+C:\Users\Garry\Desktop\Lessions6\TASK46\bin\Debug\net6.0\TASK46.deps.json
+C:\Users\Garry\Desktop\Lessions6\TASK46\bin\Debug\net6.0\TASK46.runtimeconfig.json
+C:\Users\Garry\Desktop\Lessions6\TASK46\bin\Debug\net6.0\TASK46.dll
+C:\Users\Garry\Desktop\Lessions6\TASK46\bin\Debug\net6.0\TASK46.pdb
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\TASK46.dll
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\refint\TASK46.dll
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\TASK46.pdb
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\TASK46.genruntimeconfig.cache
+C:\Users\Garry\Desktop\Lessions6\TASK46\obj\Debug\net6.0\ref\TASK46.dll

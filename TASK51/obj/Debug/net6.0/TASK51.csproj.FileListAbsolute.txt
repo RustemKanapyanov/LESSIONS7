@@ -1,0 +1,15 @@
+C:\Users\Garry\Desktop\Lessions6\TASK51\bin\Debug\net6.0\TASK51.exe
+C:\Users\Garry\Desktop\Lessions6\TASK51\bin\Debug\net6.0\TASK51.deps.json
+C:\Users\Garry\Desktop\Lessions6\TASK51\bin\Debug\net6.0\TASK51.runtimeconfig.json
+C:\Users\Garry\Desktop\Lessions6\TASK51\bin\Debug\net6.0\TASK51.dll
+C:\Users\Garry\Desktop\Lessions6\TASK51\bin\Debug\net6.0\TASK51.pdb
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\TASK51.csproj.AssemblyReference.cache
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\TASK51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\TASK51.AssemblyInfoInputs.cache
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\TASK51.AssemblyInfo.cs
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\TASK51.csproj.CoreCompileInputs.cache
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\TASK51.dll
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\refint\TASK51.dll
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\TASK51.pdb
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\TASK51.genruntimeconfig.cache
+C:\Users\Garry\Desktop\Lessions6\TASK51\obj\Debug\net6.0\ref\TASK51.dll
